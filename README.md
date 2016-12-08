@@ -78,7 +78,7 @@ Poder utilizar la plantilla en nuevos proyectos que necesiten de Bootsrap y jQue
    Si su archivo de clave SSH tiene un nombre diferente al código de ejemplo, modifique el nombre de archivo para que coincida con su configuración actual. Al copiar la clave, no añada ninguna nueva línea o espacio en blanco.
    
     $ pbcopy < ~/.ssh/id_rsa.pub
-    # Copia el contenido del archivo id_rsa.pub en el portapapeles
+    Copia el contenido del archivo id_rsa.pub en el portapapeles
     
    2. En la esquina superior derecha de cualquier página, haz clic en tu foto de perfil y, a continuación, haz clic en **Settings**.
 
