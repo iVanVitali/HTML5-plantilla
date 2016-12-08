@@ -94,7 +94,13 @@ Poder utilizar la plantilla en nuevos proyectos que necesiten de Bootsrap y jQue
    
    
 ##### Fuente de los tutoriales:
-    
+   
+   1. Tutorial para Generar una nueva clave SSH y agregarla al agente ssh en [este](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/) enlace.
+   2. Agregar una nueva clave SSH a tu cuenta de GitHub en [este](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/) enlace.
+   3. Tutorial para configurar varias claves SSH para diferentes cuentas github en [este](https://gist.github.com/jexchan/2351996) enlace.
+
+   Si no funcionan los enlaces dejo los enlaces completos aqui abajo:
+
     https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/
     https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/
     https://gist.github.com/jexchan/2351996
