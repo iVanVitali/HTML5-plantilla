@@ -8,6 +8,19 @@ Este proyecto contiene una plantilla de HTML5 con CDN de Bootsrap v.3.3.7 y jQue
 
 Poder utilizar la plantilla en nuevos proyectos que necesiten de Bootsrap y jQuery
 
+#### Como instlar el proyecto o clonarlo en su carpeta local
+    
+    git clone https://github.com/ivanvitali/plantilla-html5.git
+    
+#### Crear nuevo repositorio desde la linea de comandos
+
+    echo "# primer git" >> README.md
+    git init
+    git add README.md
+    git commit -m "primer commit"
+    git remote add origin https://github.com/{nombre usuario de github}/{nombre del proyecto}.git
+    git push -u origin master
+    
 ### Tutorial para usar comandos git creando un nuevo proyecto
     
     git init // crea o inicia git dentro de la carpeta del nuevo proyecto
