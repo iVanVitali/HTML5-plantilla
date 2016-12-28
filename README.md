@@ -2,7 +2,7 @@
 
 ## Descripcion
 
-Este proyecto contiene una plantilla de HTML5 con CDN de Bootsrap v.3.3.7 y jQuery 1.12.4.
+Este proyecto contiene una plantilla de HTML5 con Bootsrap v.3.3.7 y jQuery 3.1.1
 
 ## Proposito
 
