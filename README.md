@@ -8,10 +8,12 @@ Este proyecto contiene una plantilla de HTML5 con Bootsrap v.3.3.7 y jQuery 3.1.
 
 Poder utilizar la plantilla en nuevos proyectos que necesiten de Bootsrap y jQuery
 
-#### Como instlar el proyecto o clonarlo en su carpeta local
+### Instalacion del proyecto
     
-    git clone https://github.com/ivanvitali/plantilla-html5.git
-    
+    git clone https://github.com/ivanvitali/HTML5-plantilla.git
+
+### Comandos utiles del git
+
 #### Crear nuevo repositorio desde la linea de comandos
 
     echo "# primer git" >> README.md
